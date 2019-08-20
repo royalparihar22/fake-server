@@ -1,7 +1,7 @@
 {
   "accounts": [
-    { "ip": "103.3.40.138", "id": 123 },
-    { "ip": "103.3.40.140", "id": 456 }
+    { "ip": "103.3.40.138", "id": 123, "name": "6sense", "industry": "it" },
+    { "ip": "103.3.40.140", "id": 456, "name": "dell", "industry": "computer" }
   ],
   "profile": {
     "name": "Fake"
